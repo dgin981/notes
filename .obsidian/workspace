@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "6972b21bf19a5142",
+    "type": "split",
+    "children": [
+      {
+        "id": "08d05f58c1b5eb8c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ENGSCI211/LA/Eigenvalues and Eigenvectors.md",
+            "mode": "source"
+          }
+        },
+        "group": "5661e65e40323098"
+      },
+      {
+        "id": "f0838e2b8724c3df",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ENGSCI211/LA/Eigenvalues and Eigenvectors.md",
+            "mode": "preview"
+          }
+        },
+        "group": "5661e65e40323098"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8adf6d123f34b654",
+    "type": "split",
+    "children": [
+      {
+        "id": "0eb00e66a405b03c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebfc4cb15ea70449",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6d5118273fb7de38",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296
+  },
+  "right": {
+    "id": "fe821468ec5f6cba",
+    "type": "split",
+    "children": [
+      {
+        "id": "dedd0c566eb8d381",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "637938d924d0ceab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ENGSCI211/LA/Eigenvalues and Eigenvectors.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "08d05f58c1b5eb8c",
+  "lastOpenFiles": [
+    "ENGSCI211/LA/Eigenvalues and Eigenvectors.md",
+    "ENGSCI211/LA/Jacobi & Gauss-Seidel Methods.md",
+    "ENGSCI211/LA/Using PLU Factorisation.md",
+    "ENGSCI211/LA/PLU factorisation.md",
+    "ENGSCI211/LA/1653171167.png",
+    "COMPSYS201/MCs & Embedded Systems/1653256575.png",
+    "COMPSYS201/MCs & Embedded Systems/1653257780.png",
+    "COMPSYS201/MCs & Embedded Systems/1653257867.png",
+    "ELECTENG291/3.4 Power in the Frequency Domain.md",
+    "SOFTENG281/Java Collections.md"
+  ]
+}

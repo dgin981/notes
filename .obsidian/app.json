@@ -1,0 +1,10 @@
+{
+  "vimMode": true,
+  "useTab": true,
+  "tabSize": 2,
+  "showLineNumber": true,
+  "useMarkdownLinks": true,
+  "lineWrap": true,
+  "autoPairMarkdown": false,
+  "promptDelete": false
+}
