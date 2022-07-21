@@ -30,3 +30,7 @@ For CTC & Normal mode
 ![](1653257867.png)
 #### Timer1 Features - Input Capture Unit
 #### Timer2 Features - Asynchronous Clock
+
+Timer2 is asynchronous 
+
+ASSR (Async status register) has two bits of interest, EXCLK & AS2

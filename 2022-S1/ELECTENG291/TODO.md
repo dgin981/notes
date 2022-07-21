@@ -1,0 +1,9 @@
+$$ i = v_c + C\frac{dv_c}{dt} $$
+$$ v_c = 4$$
+$$ \frac{4 - v_c}{1} = i$$
+$$ v_c = 4 - i $$
+$$ i = (4-i) + C\frac{d}{dt}(4-i) $$
+$$ i = 4 - i + C\frac{di}{dt} $$
+$$ -4 = C\frac{di}{dt} - 2i $$
+$$ 4 - v_c = v_c + C\frac{dv_c}{dt} $$
+$$ 4 = 2v_c + C\frac{dv_c}{dt} $$

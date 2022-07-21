@@ -1,0 +1,1 @@
+Tcq from source memory + Tsu from dest memory + combinational logic
